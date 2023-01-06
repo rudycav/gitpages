@@ -1,1 +1,3 @@
-# gitpages
+theme: Architect
+
+test
