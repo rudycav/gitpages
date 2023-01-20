@@ -1,3 +1,1 @@
-theme: Architect
 
-test
